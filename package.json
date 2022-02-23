@@ -1,5 +1,5 @@
 {
-  "name": "ajs-iterators",
+  "name": "ajs-generators",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PolinaVylizhanina/ajs-symbols-iterators.git"
+    "url": "git+https://github.com/PolinaVylizhanina/ajs-symbols-generators.git"
   },
   "bugs": {
-    "url": "https://github.com/PolinaVylizhanina/ajs-symbols-iterators/issues"
+    "url": "https://github.com/PolinaVylizhanina/ajs-symbols-generators/issues"
   },
-  "homepage": "https://github.com/PolinaVylizhanina/ajs-symbols-iterators#readme",
+  "homepage": "https://github.com/PolinaVylizhanina/ajs-symbols-generators#readme",
   "description": ""
 }
